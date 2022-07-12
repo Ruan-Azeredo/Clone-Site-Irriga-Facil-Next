@@ -1,0 +1,13 @@
+.mvv_animation{
+    top: -10px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    opacity: 0;
+}
+
+.title_mvv:hover .mvv_animation{
+    transition: 0.7s ease-in-out;
+    height: 170px;
+    opacity: 1;
+}
