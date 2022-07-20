@@ -1,4 +1,4 @@
-import Paragrafo from "./Paragrafo";
+import Paragrafo from "../Paragrafo";
 import SobreNosMVVItens from "./SobreNosMVVItens";
 import Titulos from "./Titulos";
 

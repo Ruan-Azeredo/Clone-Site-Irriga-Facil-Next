@@ -1,7 +1,7 @@
-import Banner from "./Banner";
-import Navbar from "./Navbar";
-import Servicos from "./Servicos";
-import SobreNos from "./SobreNos";
+import Banner from "./sections/Banner";
+import Navbar from "./sections/Navbar";
+import Servicos from "./sections/Servicos";
+import SobreNos from "./sections/SobreNos";
 
 export default function Layout() {
     return (

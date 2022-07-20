@@ -1,6 +1,6 @@
-import Paragrafo from "./Paragrafo";
+import Paragrafo from "../Paragrafo";
 import React from "react";
-import { Cog } from "../../node_modules/heroicons-react/build/index";
+import { Cog } from "../../../node_modules/heroicons-react/build/index";
 
 export default function CardServico() {
     return (

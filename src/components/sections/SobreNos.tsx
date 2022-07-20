@@ -1,4 +1,4 @@
-import SobreNosContent from "./SobreNosContent";
+import SobreNosContent from "../little/SobreNosContent";
 
 export default function SobreNos() {
     return (

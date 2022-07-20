@@ -1,6 +1,6 @@
-import CardServico from "./CardServico";
-import Paragrafo from "./Paragrafo";
-import Titulos from "./Titulos";
+import CardServico from "../little/CardServico";
+import Paragrafo from "../Paragrafo";
+import Titulos from "../little/Titulos";
 
 export default function Servicos() {
     return (
